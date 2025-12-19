@@ -1,1 +1,1 @@
-akshay-portfolio-yjfi.vercel.app
+https://akshay-portfolio-yjfi.vercel.app/
