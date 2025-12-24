@@ -509,7 +509,7 @@ a {
 @media (max-width: 420px) {
   .hero-photo {
     width: 190px;
-    height: 190px;
+    height: 2500px;
   }
 
   .hero h1 {
