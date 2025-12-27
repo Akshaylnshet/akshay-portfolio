@@ -1,1 +1,1 @@
-link=akshay-portfolio-ecru-rho.vercel.app
+akshay-portfolio-ecru-rho.vercel.app
